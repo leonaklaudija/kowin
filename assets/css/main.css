@@ -570,7 +570,7 @@ header #site-logo {
   margin-right: 0 !important;
 }
 #red-wine, #white-wine, #baloons, #flower, #envelope{
-margin: 52px;
+margin: 12px;
 }
 .flexslider{
 
@@ -774,4 +774,6 @@ margin: 52px;
   #landing-bg {
     background-attachment: scroll;
   }
+
 }
+
